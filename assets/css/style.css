@@ -3,11 +3,11 @@
 ===========================*/
 
 .header__email--highlight {
-  color: #3e8022;
+  color: #cc5500;
 }
 
 .highlight {
-  color: #3e8022;
+  color: #cc5500;
 }
 .lni {
   font-size: 2em;
@@ -16,7 +16,7 @@
 }
 
 .lni:hover, .lni:focus{
-  color: #3e8022;
+  color: #cc5500;
 }
 
 /*===========================
