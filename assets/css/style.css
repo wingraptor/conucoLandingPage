@@ -19,6 +19,15 @@
   color: #cc5500;
 }
 
+.subscribe-area{
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 100px;
+}
+#subscribe-button{
+  background-color: #cc5500;
+  border-color: #cc5500;
+}
+
 /*===========================
     01. Common CSS
 ===========================*/
